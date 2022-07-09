@@ -1,0 +1,42 @@
+.box1
+{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  position: absolute;
+  display: block;
+  right: 20px;
+}
+.box2
+{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  position: absolute;
+  left: 200px;
+  top:200px;
+}
+.box3
+{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  left: 400px;
+  top:400px;
+  position: absolute;
+}
+body
+{
+  margin: 0;
+}
+.mountain
+{
+  position: absolute;
+  top:800px;
+}
+.container
+{
+  height: 400px;
+  width: 400px;
+  position: relative;
+}
